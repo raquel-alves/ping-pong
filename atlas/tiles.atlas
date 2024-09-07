@@ -1,0 +1,4 @@
+images {
+  image: "/assets/void.png"
+}
+extrude_borders: 2

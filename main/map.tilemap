@@ -1,0 +1,156 @@
+tile_set: "/atlas/map.tilesource"
+layers {
+  id: "layer1"
+  z: 0.0
+  cell {
+    x: 5
+    y: 0
+    tile: 0
+  }
+  cell {
+    x: 6
+    y: 0
+    tile: 0
+  }
+  cell {
+    x: 7
+    y: 0
+    tile: 0
+  }
+  cell {
+    x: 8
+    y: 0
+    tile: 0
+  }
+  cell {
+    x: 9
+    y: 0
+    tile: 0
+  }
+  cell {
+    x: 10
+    y: 0
+    tile: 0
+  }
+  cell {
+    x: 11
+    y: 0
+    tile: 0
+  }
+  cell {
+    x: 12
+    y: 0
+    tile: 0
+  }
+  cell {
+    x: 5
+    y: 1
+    tile: 0
+  }
+  cell {
+    x: 12
+    y: 1
+    tile: 0
+  }
+  cell {
+    x: 5
+    y: 2
+    tile: 0
+  }
+  cell {
+    x: 12
+    y: 2
+    tile: 0
+  }
+  cell {
+    x: 5
+    y: 3
+    tile: 0
+  }
+  cell {
+    x: 12
+    y: 3
+    tile: 0
+  }
+  cell {
+    x: 5
+    y: 4
+    tile: 0
+  }
+  cell {
+    x: 12
+    y: 4
+    tile: 0
+  }
+  cell {
+    x: 5
+    y: 5
+    tile: 0
+  }
+  cell {
+    x: 12
+    y: 5
+    tile: 0
+  }
+  cell {
+    x: 5
+    y: 6
+    tile: 0
+  }
+  cell {
+    x: 12
+    y: 6
+    tile: 0
+  }
+  cell {
+    x: 5
+    y: 7
+    tile: 0
+  }
+  cell {
+    x: 12
+    y: 7
+    tile: 0
+  }
+  cell {
+    x: 5
+    y: 8
+    tile: 0
+  }
+  cell {
+    x: 6
+    y: 8
+    tile: 0
+  }
+  cell {
+    x: 7
+    y: 8
+    tile: 0
+  }
+  cell {
+    x: 8
+    y: 8
+    tile: 0
+  }
+  cell {
+    x: 9
+    y: 8
+    tile: 0
+  }
+  cell {
+    x: 10
+    y: 8
+    tile: 0
+  }
+  cell {
+    x: 11
+    y: 8
+    tile: 0
+  }
+  cell {
+    x: 12
+    y: 8
+    tile: 0
+  }
+}
+material: "/builtins/materials/tile_map.material"

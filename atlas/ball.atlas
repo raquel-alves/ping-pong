@@ -1,0 +1,7 @@
+images {
+  image: "/assets/ball_blue.png"
+}
+images {
+  image: "/assets/ball_pink.png"
+}
+extrude_borders: 2

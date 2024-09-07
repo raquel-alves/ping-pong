@@ -1,0 +1,7 @@
+images {
+  image: "/assets/player1.png"
+}
+images {
+  image: "/assets/player2.png"
+}
+extrude_borders: 2
